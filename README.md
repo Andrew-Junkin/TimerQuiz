@@ -26,3 +26,6 @@ THEN I can save my initials and my score
 ```
 ---
 Link to page [Code Quiz page](https://andrew-junkin.github.io/TimerQuiz/)
+
+![GitHub Logo](picture1.png)
+![GitHub Logo](picture2.png)
